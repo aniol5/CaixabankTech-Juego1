@@ -1,4 +1,4 @@
-# README - Juego de Realidad Virtual para CaixaBank de Plataformas
+# README - Juegos de Realidad Virtual en Spatial
 ¡Bienvenido al repositorio del juego de realidad virtual (VR)! En este proyecto, hemos desarrollado un emocionante juego VR para que los usuarios disfruten de una experiencia inmersiva. Este juego combina elementos de la realidad virtual y las plataformas para brindar una experiencia única a los jugadores.
 
 ## Autores

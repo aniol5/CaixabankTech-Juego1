@@ -23,6 +23,6 @@ Acceso a un navegador con internet.
 
 # ¿Quieres jugar?
 
-Crea un cuenta en Spatial, personaliza tu avatar y juega!
+Crea un cuenta en Spatial, personaliza tu avatar y juega!  
 [Link al juego de plataformas](https://www.spatial.io/s/Prova_obstacles-64875cfab3cadd5fd0027005?share=3430489780733958430)  
 [Link al juego de carreras](https://www.spatial.io/s/Carrera-coches-648753b3b3cadd5fd002643b?share=3790258407674668239)

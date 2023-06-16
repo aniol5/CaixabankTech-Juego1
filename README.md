@@ -11,8 +11,8 @@ El juego incluye las siguientes características principales:
 Requisitos del Sistema
 Para disfrutar plenamente de esta experiencia de juego de realidad virtual, se requiere lo siguiente:
 
-* Un dispositivo de realidad virtual compatible, como Oculus Rift, HTC Vive o PlayStation VR. (Opcional)  
-* Acceso a un navegador con internet.
+1. Un dispositivo de realidad virtual compatible, como Oculus Rift, HTC Vive o PlayStation VR. (Opcional)  
+2. Acceso a un navegador con internet.
 
 # 🕹🎮 ¿Quieres jugar? 
 

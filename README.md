@@ -1,7 +1,7 @@
-# README - Juegos de Realidad Virtual en Spatial
+# README - 👾Juegos de Realidad Virtual en Spatial👾
 ¡Bienvenido al repositorio del juego de realidad virtual (VR)! En este proyecto, hemos desarrollado un emocionante juego VR para que los usuarios disfruten de una experiencia inmersiva. Este juego combina elementos de la realidad virtual y las plataformas para brindar una experiencia única a los jugadores.
 
-## Autores
+## ✍️ Autores
 Este proyecto ha sido creado por el equipo:
 
   Daniel Oliveras Olea  
@@ -9,7 +9,7 @@ Este proyecto ha sido creado por el equipo:
   Axel Jonas Iruegas Hernandez  
   Aniol Masdeu Feixas  
 
-# Descripción del Proyecto
+# ℹ️ Descripción del Proyecto
 El juego incluye las siguientes características principales:
 
 Interacción: Los jugadores pueden interactuar con los objetos y personajes del juego.
@@ -21,7 +21,7 @@ Para disfrutar plenamente de esta experiencia de juego de realidad virtual, se r
 Un dispositivo de realidad virtual compatible, como Oculus Rift, HTC Vive o PlayStation VR. (Opcional)
 Acceso a un navegador con internet.
 
-# ¿Quieres jugar?
+# 🕹🎮 ¿Quieres jugar? 
 
 Crea un cuenta en Spatial, personaliza tu avatar y juega!  
 [Link al juego de plataformas](https://www.spatial.io/s/Prova_obstacles-64875cfab3cadd5fd0027005?share=3430489780733958430)  

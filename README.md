@@ -10,7 +10,7 @@ El juego incluye las siguientes características principales:
 - **Personalización**: Los jugadores tienen la opción de personalizar sus avatares y adaptar su experiencia de juego a sus preferencias.  
 
 ---
-**Requisitos del Sistema**
+**Requisitos del Sistema**  
 ⚠️Para disfrutar plenamente de esta experiencia de juego de realidad virtual, se requiere lo siguiente:
 
     1. Un dispositivo de realidad virtual compatible, como Oculus Rift, HTC Vive o PlayStation VR. (Opcional)  

@@ -10,8 +10,8 @@ Personalización: Los jugadores tienen la opción de personalizar sus avatares y
 Requisitos del Sistema
 Para disfrutar plenamente de esta experiencia de juego de realidad virtual, se requiere lo siguiente:
 
-Un dispositivo de realidad virtual compatible, como Oculus Rift, HTC Vive o PlayStation VR. (Opcional)
-Acceso a un navegador con internet.
+* Un dispositivo de realidad virtual compatible, como Oculus Rift, HTC Vive o PlayStation VR. (Opcional)  
+* Acceso a un navegador con internet.
 
 # 🕹🎮 ¿Quieres jugar? 
 
